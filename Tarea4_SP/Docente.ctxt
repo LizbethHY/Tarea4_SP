@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Docente
+comment1.params=edad\ nombre\ CI\ profesion
+comment1.target=Docente(int,\ java.lang.String,\ int,\ java.lang.String)
+comment2.params=enseniando
+comment2.target=java.lang.String\ enseniar(boolean)
+numComments=3

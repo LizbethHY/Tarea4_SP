@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Persona
+comment1.params=edad\ nombre\ CI
+comment1.target=Persona(int,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ saludar()
+comment3.params=caminando
+comment3.target=java.lang.String\ caminar(boolean)
+comment4.params=durmiendo
+comment4.target=java.lang.String\ dormir(boolean)
+numComments=5
